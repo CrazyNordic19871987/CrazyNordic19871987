@@ -10,15 +10,21 @@
 - 📊 **Данные** — ML-пайплайны, статистика, когортный анализ в Jupyter
 - 🛠️ **Vibe coding** — сборка продуктов в диалоге с ИИ-агентами (opencode, субагенты и скиллы)
 
-## Флагманские проекты
+## Ключевые проекты
 
-| Репозиторий | Что это |
-|---|---|
-| [kanikuly-s-one](https://github.com/CrazyNordic19871987/kanikuly-s-one) | Платформа «Каникулы с ONE!» — живое приложение на GitHub Pages + Supabase |
-| [one-profile-v2](https://github.com/CrazyNordic19871987/one-profile-v2) | React-профиль участника: радар компетенций, XP, ИИ-наставник (OpenAI) |
-| [student_psychology_feedback_generator](https://github.com/CrazyNordic19871987/student_psychology_feedback_generator) | Генератор обратной связи на локальной LLM (Ollama, Mistral) |
-| [project_feedback.py](https://github.com/CrazyNordic19871987/project_feedback.py) | Function calling для Ollama + Open WebUI Pipelines на GPU AMD (ROCm) |
-| [WebAutoSubscription---DE-DA-ML](https://github.com/CrazyNordic19871987/WebAutoSubscription---DE-DA-ML) | DE/DA/ML-проект: автоподписки, пайплайны, Flask API |
+### 🏕️ Продукт
+**[kanikuly-s-one](https://github.com/CrazyNordic19871987/kanikuly-s-one)** — платформа «Каникулы с ONE!», мой главный продукт. Живое приложение на GitHub Pages + Supabase: игровая экономика (XP, валюты, карточки), DISC-профили, миссии, SQL-миграции с RLS, автодеплой через GitHub Actions.
+
+### 🤖 ИИ-инженерия
+**[one-profile-v2](https://github.com/CrazyNordic19871987/one-profile-v2)** — самая современная часть стека: React + TypeScript + Tailwind + Supabase, ИИ-наставник на OpenAI API (генерация обратной связи по профилю ученика), развитие через opencode (субагенты, скиллы).
+
+### 🧠 Прикладной LLM
+**[student_psychology_feedback_generator](https://github.com/CrazyNordic19871987/student_psychology_feedback_generator)** — оригинальная задача на локальном ИИ: асинхронная генерация психологической обратной связи по опросам через Ollama (Mistral).
+
+## Опыты и исследования
+
+- **[project_feedback.py](https://github.com/CrazyNordic19871987/project_feedback.py)** / **[project_with_feedback.py](https://github.com/CrazyNordic19871987/project_with_feedback.py)** — демо function calling для Ollama + Open WebUI Pipelines (Docker, Ansible, ROCm на AMD).
+- **[WebAutoSubscription---DE-DA-ML](https://github.com/CrazyNordic19871987/WebAutoSubscription---DE-DA-ML)** — DS-проект (курсовая): Data Analysis + ML-модель с Flask API + Data Engineering (пайплайн, БД).
 
 ## Стек
 
