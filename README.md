@@ -21,6 +21,9 @@
 ### 🧠 Прикладной LLM
 **[student_psychology_feedback_generator](https://github.com/CrazyNordic19871987/student_psychology_feedback_generator)** — оригинальная задача на локальном ИИ: асинхронная генерация психологической обратной связи по опросам через Ollama (Mistral).
 
+### 🎸 Музыкальное образование
+**[nashville-number-guitar](https://github.com/CrazyNordic19871987/nashville-number-guitar)** — интерактивное офлайн-приложение в одном `index.html` для изучения нэшвиллской системы цифр на гитаре: аккорды и 17 прогрессий с живым транспонированием во все 12 тональностей, лады и пентатоники, 49 проигрышей, метроном на Web Audio API и двуязычный интерфейс (EN/RU). Без сборки, зависимостей и интернета.
+
 ## Опыты и исследования
 
 - **[project_feedback.py](https://github.com/CrazyNordic19871987/project_feedback.py)** / **[project_with_feedback.py](https://github.com/CrazyNordic19871987/project_with_feedback.py)** — демо function calling для Ollama + Open WebUI Pipelines (Docker, Ansible, ROCm на AMD).
