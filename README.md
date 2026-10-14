@@ -4,6 +4,8 @@
 
 [English](README.en.md) · **Русский**
 
+**[Галерея всех 20 прототипов →](https://crazynordic19871987.github.io/edtech-prototypes/)**
+
 [![Каникулы с ONE!](https://api.microlink.io/?url=https%3A%2F%2Fcrazynordic19871987.github.io%2Fkanikuly-s-one%2F&screenshot=true&meta=false&embed=screenshot.url)](https://crazynordic19871987.github.io/kanikuly-s-one/)
 
 [**Telegram @CrazyNordic**](https://t.me/CrazyNordic) · [GitHub](https://github.com/CrazyNordic19871987)
