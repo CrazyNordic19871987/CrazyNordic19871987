@@ -65,11 +65,9 @@ Python · pandas · scikit-learn · Flask · SQLite<br>
 </td>
 <td width="50%" valign="top">
 
-**Ещё 15 живых прототипов** — квизы, игры, карты, магазины, презентации и планирование лагеря.
-
-Ниже — ссылки по категориям. Или открой
-
-### <a href="https://crazynordic19871987.github.io/edtech-prototypes/">📁 Галерею всех 20 демо →</a>
+<b>Ещё 15 живых прототипов</b> — квизы, игры, карты, магазины, презентации и планирование лагеря.<br><br>
+Ниже — ссылки по категориям. Или открой:<br><br>
+<h3><a href="https://crazynordic19871987.github.io/edtech-prototypes/">📁 Галерею всех 20 демо →</a></h3>
 
 </td>
 </tr>
@@ -149,8 +147,10 @@ Python · pandas · scikit-learn · Flask · SQLite<br>
 
 <br>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=CrazyNordic19871987&show_icons=true&hide_border=true&bg_color=00000000&title_color=6EA8FF&icon_color=8B5CF6&text_color=9AA6C4&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyNordic19871987&layout=compact&hide_border=true&bg_color=00000000&title_color=6EA8FF&text_color=9AA6C4&langs_count=8)
+![Прототипов](https://img.shields.io/badge/20-живых_прототипов-6EA8FF?style=for-the-badge)
+![Репозиториев](https://img.shields.io/badge/29-публичных_репозиториев-8B5CF6?style=for-the-badge)
+![Смен](https://img.shields.io/badge/11-смен--концепций-3ECF8E?style=for-the-badge)
+![Карточек](https://img.shields.io/badge/90-игровых_карточек-F7931E?style=for-the-badge)
 
 </div>
 

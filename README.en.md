@@ -65,11 +65,9 @@ Python · pandas · scikit-learn · Flask · SQLite<br>
 </td>
 <td width="50%" valign="top">
 
-**15 more live prototypes** — quizzes, games, maps, shops, presentations and camp planning.
-
-See the links by category below. Or open the
-
-### <a href="https://crazynordic19871987.github.io/edtech-prototypes/">📁 full 20-demo gallery →</a>
+<b>15 more live prototypes</b> — quizzes, games, maps, shops, presentations and camp planning.<br><br>
+See the links by category below. Or open the:<br><br>
+<h3><a href="https://crazynordic19871987.github.io/edtech-prototypes/">📁 full 20-demo gallery →</a></h3>
 
 </td>
 </tr>
@@ -149,8 +147,10 @@ See the links by category below. Or open the
 
 <br>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=CrazyNordic19871987&show_icons=true&hide_border=true&bg_color=00000000&title_color=6EA8FF&icon_color=8B5CF6&text_color=9AA6C4&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyNordic19871987&layout=compact&hide_border=true&bg_color=00000000&title_color=6EA8FF&text_color=9AA6C4&langs_count=8)
+![Prototypes](https://img.shields.io/badge/20-live_prototypes-6EA8FF?style=for-the-badge)
+![Repos](https://img.shields.io/badge/29-public_repos-8B5CF6?style=for-the-badge)
+![Shifts](https://img.shields.io/badge/11-shift_concepts-3ECF8E?style=for-the-badge)
+![Cards](https://img.shields.io/badge/90-game_cards-F7931E?style=for-the-badge)
 
 </div>
 
