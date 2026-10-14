@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=6EA8FF&center=true&vCenter=true&width=760&height=70&lines=I+build+digital+products+and+prototypes;EdTech+%C2%B7+gamification+%C2%B7+AI+%C2%B7+data" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1500&color=6EA8FF&center=true&vCenter=true&width=820&height=80&lines=I+build+digital+products+and+prototypes;EdTech+%C2%B7+learning+gamification;AI+%C2%B7+data+%C2%B7+analytics;From+idea+%E2%80%94+to+a+deployed+app" alt="" />
 
 ### Andrey Kuleshov · product & education technologist
 
-From idea and game mechanics — to a deployed app on **React / TypeScript / Supabase**
+I build educational products and digital prototypes — from the idea, game mechanics and metrics all the way to a deployed application. I combine a background in education (school and camp, methodology, gamification, 700+ students) with hands-on build skills: **React / TypeScript / Supabase**, **AI** (OpenAI and local LLMs) and **data** (Python, SQL, Power BI, management reporting).
+
+**20 live prototypes** · each one opens by link · open to **part-time**
 
 <br>
 

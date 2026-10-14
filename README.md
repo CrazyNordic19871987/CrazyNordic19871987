@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=6EA8FF&center=true&vCenter=true&width=760&height=70&lines=Создаю+цифровые+продукты+и+прототипы;EdTech+%C2%B7+геймификация+%C2%B7+ИИ+%C2%B7+данные" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1500&color=6EA8FF&center=true&vCenter=true&width=820&height=80&lines=Создаю+цифровые+продукты+и+прототипы;EdTech+%C2%B7+геймификация+обучения;ИИ+%C2%B7+данные+%C2%B7+аналитика;От+идеи+%E2%80%94+до+задеплоенного+приложения" alt="" />
 
 ### Андрей Кулешов · продуктовый и образовательный технолог
 
-От идеи и механики — до задеплоенного приложения на **React / TypeScript / Supabase**
+Создаю образовательные продукты и цифровые прототипы — от идеи, механики и метрик до задеплоенного приложения. Соединяю опыт в образовании (школа и лагерь, методика, геймификация, 700+ учеников) с технической сборкой: **React / TypeScript / Supabase**, **ИИ** (OpenAI и локальные LLM) и **данные** (Python, SQL, Power BI, управленческая отчётность).
+
+**20 живых прототипов** · каждый открывается по ссылке · открыт к **part-time**
 
 <br>
 
