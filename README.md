@@ -1,61 +1,115 @@
-# Привет! 🚀
+# Андрей Кулешов · Создаю цифровые продукты и прототипы для образования
 
-Я продуктовый и образовательный технолог: проектирую и довожу EdTech-продукты «под ключ» — от идеи и прототипа до задеплоенного приложения с базой данных, ИИ и аналитикой.
+**От идеи и прототипа — до задеплоенного приложения** (React/TypeScript, Supabase, ИИ, аналитика).
 
-## Что я делаю
+[English](README.en.md) · **Русский**
 
-- 🎮 **Геймификация образования** — смены-миры, игровая экономика, прогресс участников
-- 🤖 **ИИ в EdTech** — OpenAI API (ИИ-наставник), локальные LLM через Ollama, Open WebUI
-- ⚙️ **Полный цикл** — React/TypeScript, Supabase, SQL-миграции, автодеплой
-- 📊 **Данные** — ML-пайплайны, статистика, когортный анализ в Jupyter
-- 🛠️ **Vibe coding** — сборка продуктов в диалоге с ИИ-агентами (opencode, субагенты и скиллы)
+[![Каникулы с ONE!](https://api.microlink.io/?url=https%3A%2F%2Fcrazynordic19871987.github.io%2Fkanikuly-s-one%2F&screenshot=true&meta=false&embed=screenshot.url)](https://crazynordic19871987.github.io/kanikuly-s-one/)
 
-## Ключевые проекты
+[**Telegram @CrazyNordic**](https://t.me/CrazyNordic) · [GitHub](https://github.com/CrazyNordic19871987)
 
-### 🏕️ Продукт
-**[kanikuly-s-one](https://github.com/CrazyNordic19871987/kanikuly-s-one)** — платформа «Каникулы с ONE!», мой главный продукт. Живое приложение на GitHub Pages + Supabase: игровая экономика (XP, валюты, карточки), DISC-профили, миссии, SQL-миграции с RLS, автодеплой через GitHub Actions.
+---
 
-### 🤖 ИИ-инженерия
-**[one-profile-v2](https://github.com/CrazyNordic19871987/one-profile-v2)** — самая современная часть стека: React + TypeScript + Tailwind + Supabase, ИИ-наставник на OpenAI API (генерация обратной связи по профилю ученика), развитие через opencode (субагенты, скиллы).
+## Кто я
 
-### 🧠 Прикладной LLM
-**[student_psychology_feedback_generator](https://github.com/CrazyNordic19871987/student_psychology_feedback_generator)** — оригинальная задача на локальном ИИ: асинхронная генерация психологической обратной связи по опросам через Ollama (Mistral).
+Проектирую и собираю образовательные продукты с игровыми механиками: продумываю сценарий и экономику, рисую интерфейс, собираю рабочий прототип и довожу его до живого приложения с базой данных, ИИ-функциями и автодеплоем. 20 работающих прототипов в портфолио, каждый открывается по ссылке.
 
-### 🎸 Музыкальное образование
-**[nashville-number-guitar](https://github.com/CrazyNordic19871987/nashville-number-guitar)** — интерактивное офлайн-приложение в одном `index.html` для изучения нэшвиллской системы цифр на гитаре: аккорды и 17 прогрессий с живым транспонированием во все 12 тональностей, лады и пентатоники, 49 проигрышей, метроном на Web Audio API и двуязычный интерфейс (EN/RU). Без сборки, зависимостей и интернета.
+---
 
-## Опыты и исследования
+## Флагманские проекты
 
-- **[project_feedback.py](https://github.com/CrazyNordic19871987/project_feedback.py)** / **[project_with_feedback.py](https://github.com/CrazyNordic19871987/project_with_feedback.py)** — демо function calling для Ollama + Open WebUI Pipelines (Docker, Ansible, ROCm на AMD).
-- **[WebAutoSubscription---DE-DA-ML](https://github.com/CrazyNordic19871987/WebAutoSubscription---DE-DA-ML)** — DS-проект (курсовая): Data Analysis + ML-модель с Flask API + Data Engineering (пайплайн, БД).
+### 1. Каникулы с ONE! — платформа лагеря «под ключ»
+Геймифицированная система управления летними каникулами: 11 смен-миров, игровая экономика (НЕО-коины, XP, 90 карточек), DISC-профили, миссии, PDF-отчёты для родителей. React + Supabase (PostgreSQL, RLS), автодеплой через GitHub Actions.
 
-## Стек
+[**Открыть демо →**](https://crazynordic19871987.github.io/kanikuly-s-one/) · [Код](https://github.com/CrazyNordic19871987/kanikuly-s-one)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)
-![React](https://img.shields.io/badge/React-19-blue.svg)
-![TypeScript](https://img.shields.io/badge/TypeScript-6-blue.svg)
-![Vite](https://img.shields.io/badge/Vite-8-purple.svg)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38BDF8.svg)
+[![Каникулы с ONE!](https://api.microlink.io/?url=https%3A%2F%2Fcrazynordic19871987.github.io%2Fkanikuly-s-one%2F&screenshot=true&meta=false&embed=screenshot.url)](https://crazynordic19871987.github.io/kanikuly-s-one/)
 
-![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E.svg)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-336791.svg)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF.svg)
-![Docker](https://img.shields.io/badge/Docker-Compose-2496ED.svg)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000.svg)
+### 2. ONE! Profile v2 — ИИ-наставник для ученика
+RPG-профиль участника: аватары, уровни, XP, прогресс — и генерация персональной обратной связи через OpenAI API. React + TypeScript + Tailwind + Supabase.
 
-![Python](https://img.shields.io/badge/Python-3-3776AB.svg)
-![pandas](https://img.shields.io/badge/pandas-Data-150458.svg)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E.svg)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg)
+[**Открыть демо →**](https://crazynordic19871987.github.io/one-profile-v2/) · [Код](https://github.com/CrazyNordic19871987/one-profile-v2)
 
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-mini-412991.svg)
-![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-purple.svg)
-![Open WebUI](https://img.shields.io/badge/Open_WebUI-Self--hosted-68B54A.svg)
+[![ONE! Profile v2](https://api.microlink.io/?url=https%3A%2F%2Fcrazynordic19871987.github.io%2Fone-profile-v2%2F&screenshot=true&meta=false&embed=screenshot.url)](https://crazynordic19871987.github.io/one-profile-v2/)
 
-## Цифры
+### 3. Nashville Number Guitar — офлайн-приложение в одном HTML
+Интерактивный тренажёр нэшвиллской системы на гитаре: 12 тональностей, 17 прогрессий с живым транспонированием, лады и пентатоники, 49 проигрышей, метроном на Web Audio API, двуязычный интерфейс. Один `index.html` — без сборки, зависимостей и интернета.
 
-- **10** игровых смен-концепций лагеря
-- **7** образовательных направлений
-- **150+** миссий и **60+** карточек внутриигровых предметов
-- **14** SQL-миграций (схема, RLS, JSONB)
-- **35** репозиториев на GitHub
+[**Открыть демо →**](https://crazynordic19871987.github.io/nashville-number-guitar/) · [Код](https://github.com/CrazyNordic19871987/nashville-number-guitar)
+
+[![Nashville Number Guitar](https://api.microlink.io/?url=https%3A%2F%2Fcrazynordic19871987.github.io%2Fnashville-number-guitar%2F&screenshot=true&meta=false&embed=screenshot.url)](https://crazynordic19871987.github.io/nashville-number-guitar/)
+
+### 4. Student Psychology Feedback Generator — прикладной LLM
+Асинхронная генерация психологической обратной связи по опросам учеников на локальной модели (Ollama + Mistral). Python, pandas, AIOHTTP, обработка ошибок и продолжение с прогрессом.
+
+[**Код →**](https://github.com/CrazyNordic19871987/student_psychology_feedback_generator)
+
+[![student_psychology_feedback_generator](https://api.microlink.io/?url=https%3A%2F%2Fgithub.com%2FCrazyNordic19871987%2Fstudent_psychology_feedback_generator&screenshot=true&meta=false&embed=screenshot.url)](https://github.com/CrazyNordic19871987/student_psychology_feedback_generator)
+
+### 5. СберАвтоподписка — Data Science (DA + ML + DE)
+Финальный проект курса «Введение в Data Science»: разведочный анализ и проверка гипотез (1.86M сессий), ML-модель (Random Forest) с Flask API и пайплайн данных с базой.
+
+[**Открыть демо →**](https://crazynordic19871987.github.io/WebAutoSubscription---DE-DA-ML/) · [Код](https://github.com/CrazyNordic19871987/WebAutoSubscription---DE-DA-ML)
+
+[![СберАвтоподписка](https://api.microlink.io/?url=https%3A%2F%2Fcrazynordic19871987.github.io%2FWebAutoSubscription---DE-DA-ML%2F&screenshot=true&meta=false&embed=screenshot.url)](https://crazynordic19871987.github.io/WebAutoSubscription---DE-DA-ML/)
+
+---
+
+## Все живые демо (20 прототипов)
+
+### Продукты и платформы
+- [**kanikuly-s-one**](https://crazynordic19871987.github.io/kanikuly-s-one/) — геймифицированная платформа лагеря «под ключ»
+- [**one-profile-v2**](https://crazynordic19871987.github.io/one-profile-v2/) — профиль игрока + ИИ-наставник (React/TS)
+- [**one-profile**](https://crazynordic19871987.github.io/one-profile/) — профиль игрока: ранги, XP, прогресс (React/Vite)
+
+### EdTech-прототипы и интерактив
+- [**team_leader_school**](https://crazynordic19871987.github.io/team_leader_school/) — квест «InnoCity» (14 дней)
+- [**summer_quiz1**](https://crazynordic19871987.github.io/summer_quiz1/) — квиз смены «Scout Tech»
+- [**quizz**](https://crazynordic19871987.github.io/quizz/) — викторина-квест «ONE! City»
+- [**summer_game4**](https://crazynordic19871987.github.io/summer_game4/) — 2D-приключение
+- [**talents**](https://crazynordic19871987.github.io/talents/) — карта «талантов» BioCrafters
+- [**shop_city_camp**](https://crazynordic19871987.github.io/shop_city_camp/) — игровая экономика BioCrafters
+- [**student_report_sample**](https://crazynordic19871987.github.io/student_report_sample/) — образец персонального отчёта
+- [**skills_report1**](https://crazynordic19871987.github.io/skills_report1/) — генератор отчётов о навыках
+- [**preza1**](https://crazynordic19871987.github.io/preza1/) — разбор фидбек-отчётов
+
+### Презентации, планирование, контент
+- [**management_presentation**](https://crazynordic19871987.github.io/management_presentation/) — «Академия управления»
+- [**marketing_plan**](https://crazynordic19871987.github.io/marketing_plan/) — маркетинговый план лагеря
+- [**official.kruzhok.io**](https://crazynordic19871987.github.io/official.kruzhok.io/) — лендинг клуба (рейтинг TripAdvisor)
+- [**parents**](https://crazynordic19871987.github.io/parents/) — презентация для родителей
+- [**calendar**](https://crazynordic19871987.github.io/calendar/) — программа сезона 2026/2027
+- [**gant**](https://crazynordic19871987.github.io/gant/) — диаграмма Ганта проекта
+
+### Музыкальное образование
+- [**nashville-number-guitar**](https://crazynordic19871987.github.io/nashville-number-guitar/) — тренажёр нэшвиллской системы
+
+### Данные и исследования (без веб-демо)
+- [WebAutoSubscription (DE/DA/ML)](https://github.com/CrazyNordic19871987/WebAutoSubscription---DE-DA-ML) — Data Science: DA + ML + DE
+- [cohort_user_analysis](https://github.com/CrazyNordic19871987/cohort_user_analysis) — когортный анализ в Python/Jupyter
+- [Statistical_Hypothesis_Testing](https://github.com/CrazyNordic19871987/Statistical_Hypothesis_Testing) — проверка гипотез
+- [price_classification_pipeline](https://github.com/CrazyNordic19871987/price_classification_pipeline) — ML-пайплайн классификации цен
+
+### ИИ и автоматизация (Python, без веб-демо)
+- [student_psychology_feedback_generator](https://github.com/CrazyNordic19871987/student_psychology_feedback_generator) — генерация обратной связи на локальном LLM
+- [tg_bot_history_assistant](https://github.com/CrazyNordic19871987/tg_bot_history_assistant) — Telegram-бот-ассистент по истории
+- [school_helper](https://github.com/CrazyNordic19871987/school_helper) — бот для подготовки к урокам
+- [meme_generator.py](https://github.com/CrazyNordic19871987/meme_generator.py) — генератор мемов
+- [project_with_feedback.py](https://github.com/CrazyNordic19871987/project_with_feedback.py) — function calling для Ollama
+
+---
+
+## Технологический стек
+
+**Фронтенд:** JavaScript · TypeScript · React · Vite · Tailwind CSS · HTML/CSS
+**Бэкенд и данные:** Supabase (PostgreSQL, RLS) · SQL · Python · pandas · scikit-learn · Jupyter
+**ИИ:** OpenAI API · Ollama (локальные LLM) · Open WebUI
+**Инфраструктура:** GitHub Actions (CI/CD) · Docker · Ansible · Git
+
+---
+
+## Контакты
+
+Открыт к part-time проектам: прототипы, EdTech-продукты, дашборды и отчётность.
+
+[**Telegram @CrazyNordic**](https://t.me/CrazyNordic) · [GitHub](https://github.com/CrazyNordic19871987)
